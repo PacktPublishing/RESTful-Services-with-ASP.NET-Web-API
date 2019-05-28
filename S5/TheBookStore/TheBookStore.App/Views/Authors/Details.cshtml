@@ -1,0 +1,11 @@
+﻿@model TheBookStore.Client.AuthorModel
+
+
+<h2>@Model.fullName</h2>
+<p>Known for:</p>
+<ul data-role="listview" data-inset="true">
+    @foreach (var book in Model.Books)
+    {
+        <li><a href="@Url.Action("Details","Books",new { id = book.id})" data-transition="slide" data-inline="true">@book.title</a></li>
+    }
+</ul>

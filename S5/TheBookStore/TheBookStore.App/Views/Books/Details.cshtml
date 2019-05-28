@@ -1,0 +1,31 @@
+﻿@model TheBookStore.Client.BookModel
+
+<h2>@Model.title</h2>
+<h6>ISBN: @Model.isbn</h6>
+<p>@Model.description</p>
+
+   <ul data-role="listview" data-inset="true">
+       <li data-role="list-divider">Authors</li>
+		@foreach (var author in Model.Authors)
+  {
+      <li><a href="@Url.Action("Details","Authors",new {id = author.id})" data-transition="slide">@author.fullName</a></li>
+  }		
+					
+       </ul>
+<a href="#review" class="rate" data-bookid="@Model.id" data-role="button" data-rel="dialog" data-transition="pop">Review this book</a>
+<ul data-role="listview" data-inset="true">
+       <li data-role="list-divider">Reviews</li>
+    @if (Model.Reviews != null){
+		foreach (var review in Model.Reviews)
+  {
+      <li><h3>@review.reviewer</h3>
+          <p>@review.comment</p>
+						<span class="ui-li-count"  >@review.rating / 5</span>
+         
+          </li>
+  }		
+    }	
+       </ul>
+
+
+

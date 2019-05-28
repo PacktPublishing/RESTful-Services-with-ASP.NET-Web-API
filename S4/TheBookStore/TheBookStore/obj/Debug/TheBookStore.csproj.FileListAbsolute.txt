@@ -1,0 +1,58 @@
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\AutoMapper.Net4.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\TheBookStore.dll.config
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\TheBookStore.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\TheBookStore.pdb
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\AutoMapper.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Helpers.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Http.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Mvc.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Razor.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\AutoMapper.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Razor.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Helpers.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Mvc.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Http.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\obj\Debug\TheBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\obj\Debug\TheBookStore.dll
+C:\Users\Fanie\Documents\Visual Studio 2013\Projects\TheBookStore\TheBookStore\obj\Debug\TheBookStore.pdb
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\AutoMapper.Net4.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\TheBookStore.dll.config
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\TheBookStore.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\TheBookStore.pdb
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\AutoMapper.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Helpers.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Http.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Mvc.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Razor.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\AutoMapper.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Razor.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Helpers.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Mvc.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Http.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\obj\Debug\TheBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\obj\Debug\TheBookStore.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S4\TheBookStore\TheBookStore\obj\Debug\TheBookStore.pdb

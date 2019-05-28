@@ -1,0 +1,9 @@
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\TheBookStore.Client.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\TheBookStore.Client.pdb
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\obj\Debug\TheBookStore.Client.dll
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\obj\Debug\TheBookStore.Client.pdb
+C:\Users\Fanie\SkyDrive\Packt\Code\S5\TheBookStore\TheBookStore.Client\obj\Debug\TheBookStore.Client.csprojResolveAssemblyReference.cache

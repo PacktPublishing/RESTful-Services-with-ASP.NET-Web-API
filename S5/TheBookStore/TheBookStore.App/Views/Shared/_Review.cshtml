@@ -1,0 +1,30 @@
+﻿<div data-role="page" id="review" data-theme="a">
+
+	<div data-role="header" >
+		<h1>Review book</h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="c">	
+        @using(Html.BeginForm("SubmitReview","Books")){
+        <input type="text" placeholder="Name" name="name" />
+			<input type="text" placeholder="Comment" name="feedback" />
+        <input type="hidden" name="bookid" id="rate" value="1" />
+        <fieldset data-role="controlgroup" data-type="horizontal">
+	     	<legend>Rating:</legend>
+	         	<input type="radio" name="rating" id="radio-view-a" value="list"  />
+	         	<label for="radio-view-a">1</label>
+	         	<input type="radio" name="rating" id="radio-view-b" value="grid"  />
+	         	<label for="radio-view-b">2</label>
+	         	<input type="radio" name="rating" id="radio-view-c" value="gallery"  />
+	         	<label for="radio-view-c">3</label>
+            <input type="radio" name="rating" id="radio-view-d" value="gallery"  />
+	         	<label for="radio-view-d">4</label>
+            <input type="radio" name="rating" id="radio-view-e" value="gallery"  />
+	         	<label for="radio-view-e">5</label>
+	    </fieldset>
+        <input type="submit" value="Post review" />
+        }
+	</div><!-- /content -->
+	
+
+</div><!-- /page popup -->

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    @Styles.Render("~/Content/mobileCss")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    
+    <div data-role="page" data-theme="b" class="ui-responsive-panel">
+        <div data-role="panel" id="menu" data-theme="b" data-display="reveal">
+      <ul data-role="listview" >
+    <li data-role="list-divider">Navigation</li>
+    <li>@Html.ActionLink("Books", "Index", "Books")</li>
+    <li>@Html.ActionLink("Authors", "Index", "Authors")</li>
+</ul>
+    </div>
+	
+        <div data-role="header">
+            <h1>@ViewBag.Title</h1>
+            <a href="#menu" data-icon="bars" data-iconpos="notext" data-shadow="false" data-iconshadow="false">Menu</a>
+
+        </div>
+        <div data-role="content" data-theme="c">
+            @RenderBody()
+        </div>
+
+    </div>
+
+    @Html.Partial("_Review")
+
+    @Scripts.Render("~/bundles/jquery")
+    <script>
+        $(document).on("mobileinit", function () {
+            $.mobile.ajaxEnabled = true;
+        });
+
+        $(".rate").on("click", function () {
+            
+            $("#rate").val($(this).data("bookid"));
+        });
+    </script>
+    @Scripts.Render("~/bundles/jquerymobile")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

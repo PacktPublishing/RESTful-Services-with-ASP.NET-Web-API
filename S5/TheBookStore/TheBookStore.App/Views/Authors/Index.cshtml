@@ -1,0 +1,14 @@
+﻿@model IEnumerable<TheBookStore.Client.AuthorItem>
+
+<h2>Authors</h2>
+<ul data-role="listview" data-inset="true">
+    @foreach (var author in Model)
+    {
+        <li><a href="@Url.Action("Details","Authors",new {id = author.id})" data-transition="slide">
+            @author.fullName
+            
+            </a>
+        </li>
+    }
+
+</ul>
